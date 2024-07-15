@@ -8,7 +8,7 @@ The 45 Day DSA Challenge is a coding competition designed to improve problem-sol
 This repository serves as a record of my journey through the challenge. Here, you will find all the solutions to the problems I have solved during the competition. Each solution is meticulously crafted to ensure clarity and efficiency.
 
 # Progress
-Today will be my first day in this challenge, and I will endeavour to maintain my progress throughout the journey.
+I finished the first day of my challenge with 5 basic problems today, and I plan to keep up my progress throughout the voyage.
 
 # Connect with Me
  * LeetCode ID: [md_sameer](https://leetcode.com/u/md_sameer/) 
