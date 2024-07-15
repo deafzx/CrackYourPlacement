@@ -11,8 +11,8 @@ This repository serves as a record of my journey through the challenge. Here, yo
 Today will be my first day in this challenge, and I will endeavour to maintain my progress throughout the journey.
 
 # Connect with Me
- LeetCode ID: https://leetcode.com/u/md_sameer/
- GeeksforGeeks ID: https://www.geeksforgeeks.org/user/md_sameer/
+ * LeetCode ID: [md_sameer](https://leetcode.com/u/md_sameer/) < br / >
+ * GeeksforGeeks ID: [md_sameer](https://www.geeksforgeeks.org/user/md_sameer/) < br / >
 
  Feel free to follow my journey and review my solutions. If you have any questions or suggestions, please do not hesitate to reach out.
 
